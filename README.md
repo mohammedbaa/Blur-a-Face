@@ -1,1 +1,2 @@
 # Blur-a-Face
+Blurring a face in an image involves using image processing techniques to detect and blur the face in order to protect the identity or privacy of the individual in the image. This can be done using libraries such as OpenCV or Pillow, and generally involves detecting the face, applying a blurring filter, and replacing the original face with the blurred one. It's important to be mindful of ethical considerations and privacy concerns when blurring faces in images.
